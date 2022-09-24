@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kk55"
+    tools:context=".homepage">
+
+    <Button
+        android:id="@+id/buttonh2"
+        android:layout_width="361dp"
+        android:layout_height="82dp"
+        android:text="LogIn as Customer"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/buttonh3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.899" />
+
+    <Button
+        android:id="@+id/buttonh3"
+        android:layout_width="361dp"
+        android:layout_height="82dp"
+        android:text="LogIn as Seller"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.602" />
+</androidx.constraintlayout.widget.ConstraintLayout>

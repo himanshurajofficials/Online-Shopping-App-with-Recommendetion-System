@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173541604340",
+    "project_id": "online-shop-app-cba77",
+    "storage_bucket": "online-shop-app-cba77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173541604340:android:7318bc350323e4155957a1",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173541604340-lpqbmoi3tul3qpvk005jrvkj9ajhbl88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwhjRR8SNgcI4M8wLNfFdbONjkNAhaUOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173541604340-lpqbmoi3tul3qpvk005jrvkj9ajhbl88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Online Shop App</string>
+
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_a_member_log_in">Already Signed In? Login Here</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome,</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="welcome_back">Welcome,</string>
+    <string name="login">Login Here</string>
+    <string name="create_new_account_signup">Create new Account? SignUp</string>
+    <string name="log_in">Log In</string>
+</resources>

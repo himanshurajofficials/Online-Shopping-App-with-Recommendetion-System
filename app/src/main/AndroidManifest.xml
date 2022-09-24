@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.onlineshopapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OnlineShopApp"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".recadapterdata"
+            android:exported="false" />
+        <activity
+            android:name=".confirmorder"
+            android:exported="false" />
+        <activity
+            android:name=".recMainActivity"
+            android:label="Recommended items"
+            android:parentActivityName=".ShopCart"
+            android:exported="false" />
+        <activity
+            android:name=".sellerslistview"
+            android:exported="false"
+            android:label="Order Details"
+            android:parentActivityName=".sellerpage" />
+        <activity
+            android:name=".ShopCart"
+            android:exported="false"
+            android:parentActivityName=".customerpage"
+            android:label="Cart" />
+        <activity
+            android:name=".additempage"
+            android:exported="false"
+            android:label="Add Product"
+            android:parentActivityName=".sellerpage" />
+        <activity
+            android:name=".customerpage"
+            android:exported="false"
+            android:label="Customer Page"
+            android:parentActivityName=".homepage" />
+        <activity
+            android:name=".sellerpage"
+            android:exported="false"
+            android:label="Seller Page"
+            android:parentActivityName=".homepage" />
+        <activity
+            android:name=".homepage"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LogIn"
+            android:exported="false"
+            android:label="Login" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

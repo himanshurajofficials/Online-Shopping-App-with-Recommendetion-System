@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2105" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_additempage.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_confirmorder.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_customerpage.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_homepage.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_log_in.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_recadapterdata.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_sellerpage.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_sellerslistview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_shop_cart.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/activity_shoplist.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/cardview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/recactivity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/recactivity_shop_cart.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/himan/AndroidStudioProjects/OnlineShopApp/app/src/main/res/layout/reccardview.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
